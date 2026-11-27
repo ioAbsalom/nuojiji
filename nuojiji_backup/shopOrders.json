@@ -1,1 +1,1 @@
-[]
+[{"userId":"uid_1795459832403_bnm4agjp2","productId":"hm_diffuser","name":"无火香薰白茶味","emoji":"🕯️","price":207,"qty":1,"paidAmount":28.75,"paidCurrency":"USD","virtual":false,"payerType":"char","payerId":"cbfbce4b-a364-43c8-8e8c-a0a7bda02bda","payerName":"Bank ","recipientType":"char","recipientId":"cbfbce4b-a364-43c8-8e8c-a0a7bda02bda","recipientName":"Bank ","payCardId":"card_1795596327080_iy61","route":{"from":"shenzhen","hub":"guangzhou","to":"hefei","km":1078},"note":"","orderedAt":1795788095471,"deliverAt":1796130717204,"_id":1,"event":{"type":"none"}}]
