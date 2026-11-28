@@ -1,6 +1,6 @@
 {
   "version": 7,
-  "timestamp": 1795858500084,
+  "timestamp": 1795861251789,
   "appVersion": "",
   "source": "auto",
   "device": "app-android",
@@ -259,7 +259,7 @@
     "_migration": true
   },
   "complete": true,
-  "lastCompleteAt": 1795858500084,
+  "lastCompleteAt": 1795861251789,
   "secretsIncluded": false,
   "inProgress": false,
   "files": {
@@ -279,9 +279,14 @@
       "b": "1d5aca59b73d29855dc3d65e87106f8d662be4da"
     },
     "_localStorage.json": {
-      "h": "g:eb4dc541c2c1401105dcae07b5e6a424bd563f37",
+      "h": "g:b4f7992b447172b052a3e9d9fee4412752ad6af2",
       "gz": false,
-      "b": "eb4dc541c2c1401105dcae07b5e6a424bd563f37"
+      "b": "b4f7992b447172b052a3e9d9fee4412752ad6af2"
+    },
+    "globalSettings.json": {
+      "h": "g:089849d28b29a62099ae86c6d97769a2ec482b2b",
+      "gz": false,
+      "b": "089849d28b29a62099ae86c6d97769a2ec482b2b"
     },
     "stickers.json": {
       "h": "g:0637a088a01e8ddab3bf3fa98dbe804cbde1a0dc",
@@ -308,11 +313,6 @@
       "gz": false,
       "b": "a29138b262a1db8d22fae3dc2bb5fc8762098416"
     },
-    "userState.json": {
-      "h": "g:c9dc832a0a1df422910766ef769850c034833dd7",
-      "gz": false,
-      "b": "c9dc832a0a1df422910766ef769850c034833dd7"
-    },
     "messages.json": {
       "h": "g:a88ff1958387cdb12cb931dcc6c6d5afd670ccec",
       "gz": false,
@@ -337,11 +337,6 @@
       "h": "g:0637a088a01e8ddab3bf3fa98dbe804cbde1a0dc",
       "gz": false,
       "b": "0637a088a01e8ddab3bf3fa98dbe804cbde1a0dc"
-    },
-    "globalSettings.json": {
-      "h": "g:d6cd1056775b78b2da6256b253e6ad7a7b0b1d63",
-      "gz": false,
-      "b": "d6cd1056775b78b2da6256b253e6ad7a7b0b1d63"
     },
     "roleStickers.json": {
       "h": "g:0637a088a01e8ddab3bf3fa98dbe804cbde1a0dc",
@@ -407,6 +402,11 @@
       "h": "g:0637a088a01e8ddab3bf3fa98dbe804cbde1a0dc",
       "gz": false,
       "b": "0637a088a01e8ddab3bf3fa98dbe804cbde1a0dc"
+    },
+    "userState.json": {
+      "h": "g:e1f80608bdb179dc6d23069fbeb8558f0cd5b7cc",
+      "gz": false,
+      "b": "e1f80608bdb179dc6d23069fbeb8558f0cd5b7cc"
     },
     "userMessages.json": {
       "h": "g:0637a088a01e8ddab3bf3fa98dbe804cbde1a0dc",
