@@ -1,6 +1,6 @@
 {
   "version": 7,
-  "timestamp": 1795825308002,
+  "timestamp": 1795828322505,
   "appVersion": "",
   "source": "auto",
   "device": "app-android",
@@ -259,15 +259,10 @@
     "_migration": true
   },
   "complete": true,
-  "lastCompleteAt": 1795825308002,
+  "lastCompleteAt": 1795828322505,
   "secretsIncluded": false,
   "inProgress": false,
   "files": {
-    "characters.json": {
-      "h": "g:296e856d086de3ef6866768c46fbfb89e9dababd",
-      "gz": false,
-      "b": "296e856d086de3ef6866768c46fbfb89e9dababd"
-    },
     "friendRequests.json": {
       "h": "g:0637a088a01e8ddab3bf3fa98dbe804cbde1a0dc",
       "gz": false,
@@ -277,6 +272,11 @@
       "h": "g:4add665b6bc9780ec7bb5b39b8097877eb1888e1",
       "gz": false,
       "b": "4add665b6bc9780ec7bb5b39b8097877eb1888e1"
+    },
+    "characters.json": {
+      "h": "g:0e4331d4aa9bf6ae159463aa9eb0f1768b402d63",
+      "gz": false,
+      "b": "0e4331d4aa9bf6ae159463aa9eb0f1768b402d63"
     },
     "stickers.json": {
       "h": "g:0637a088a01e8ddab3bf3fa98dbe804cbde1a0dc",
@@ -293,10 +293,10 @@
       "gz": false,
       "b": "c05917f6b34d2e0c45fe6f4c9aeb22668944038a"
     },
-    "userState.json": {
-      "h": "g:b2872830bd3f76efbbd044ec7a0e5e7c8a1e86b1",
+    "_localStorage.json": {
+      "h": "g:a9c9817a5e7bcca6b4c9430e8fc9478fb639c367",
       "gz": false,
-      "b": "b2872830bd3f76efbbd044ec7a0e5e7c8a1e86b1"
+      "b": "a9c9817a5e7bcca6b4c9430e8fc9478fb639c367"
     },
     "userPosts.json": {
       "h": "g:0637a088a01e8ddab3bf3fa98dbe804cbde1a0dc",
@@ -453,10 +453,20 @@
       "gz": false,
       "b": "ee213488989c5cf4f8852b840fa37560da2dfc09"
     },
+    "userState.json": {
+      "h": "g:52169788c155ebeafae089e181566d78144e5b20",
+      "gz": false,
+      "b": "52169788c155ebeafae089e181566d78144e5b20"
+    },
     "imageStore.json": {
       "h": "g:7b8ea31a8e9f44f1982f63545b484ae719f467c3",
       "gz": false,
       "b": "7b8ea31a8e9f44f1982f63545b484ae719f467c3"
+    },
+    "globalSettings.json": {
+      "h": "g:0ec74b9e0ee2e8fe0bcb58dffc5b502ab6c0c18b",
+      "gz": false,
+      "b": "0ec74b9e0ee2e8fe0bcb58dffc5b502ab6c0c18b"
     },
     "stickerStore.json": {
       "h": "g:0637a088a01e8ddab3bf3fa98dbe804cbde1a0dc",
@@ -633,11 +643,6 @@
       "gz": false,
       "b": "a49d9b26f590591285f0a16f1416f8dfc52ee777"
     },
-    "_localStorage.json": {
-      "h": "g:372d790c7d2e57dc05d3322084aee0363f1cf5bb",
-      "gz": false,
-      "b": "372d790c7d2e57dc05d3322084aee0363f1cf5bb"
-    },
     "radioData.json": {
       "h": "g:0637a088a01e8ddab3bf3fa98dbe804cbde1a0dc",
       "gz": false,
@@ -742,11 +747,6 @@
       "h": "g:0637a088a01e8ddab3bf3fa98dbe804cbde1a0dc",
       "gz": false,
       "b": "0637a088a01e8ddab3bf3fa98dbe804cbde1a0dc"
-    },
-    "globalSettings.json": {
-      "h": "g:99df85784d30a06658697121d0b36ffeba9ec1ed",
-      "gz": false,
-      "b": "99df85784d30a06658697121d0b36ffeba9ec1ed"
     },
     "studyVocabDecks.json": {
       "h": "g:0637a088a01e8ddab3bf3fa98dbe804cbde1a0dc",
